@@ -1,3 +1,4 @@
+
 class DisjointSet{
        public: 
            vector<int> size , parent;
